@@ -1,6 +1,6 @@
 # Varnish
 
-https://varnish-cache.org/_static/varnishcache_rgb-gimp2-alpha.png
+![image](https://user-images.githubusercontent.com/59032477/222936460-d51f5e69-b391-43d1-92c0-4f6041e78f1a.png)
 
 # The basics
 Varnish Cache is a web application accelerator also known as a caching HTTP reverse proxy. You install it in front of any server that speaks HTTP and configure it to cache the contents. Varnish Cache is really, really fast. It typically speeds up delivery with a factor of 300 - 1000x, depending on your architecture. A high level overview of what Varnish does can be seen in this video.
