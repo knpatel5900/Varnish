@@ -10,3 +10,7 @@ Varnish performs really, really well. It is usually bound by the speed of the ne
 
 # Flexibility
 One of the key features of Varnish Cache, in addition to its performance, is the flexibility of its configuration language, VCL. VCL enables you to write policies on how incoming requests should be handled. In such a policy you can decide what content you want to serve, from where you want to get the content and how the request or response should be altered. And, you can extend Varnish with modules (VMODs). You can read more about this in our tutorial.
+
+# Installation 
+
+https://varnish-cache.org/docs/7.2/installation/
